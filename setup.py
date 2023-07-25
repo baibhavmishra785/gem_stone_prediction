@@ -25,8 +25,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name = 'mlproject_regression',
     version= '0.0.1',
-    author='Utkarsh Gaikwad',
-    author_email='gaikwadujg@gmail.com',
+    author='Baibhav Mishra',
+    author_email='baibhavmishra6@gmail.com',
     packages = find_packages(),
     install_requires = get_requirements('requirements.txt')
 )
