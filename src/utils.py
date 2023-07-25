@@ -1,4 +1,4 @@
-import os
+mport os
 import sys
 
 import numpy as np 
