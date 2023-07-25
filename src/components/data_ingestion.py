@@ -1,4 +1,4 @@
-# Import all the required libraries
+Import all the required libraries
 import os
 import sys
 from src.exception import CustomException
