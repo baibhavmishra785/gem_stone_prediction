@@ -35,10 +35,6 @@ AWS Elastic Beanstalk link :
 
 API Link : 
 
-# Postman Testing of API :
-
-![API Prediction](./Screenshots/APIPrediction.jpg)
-
 # Approach for the project 
 
 1. Data Ingestion : 
